@@ -13,35 +13,14 @@ en: &DEFAULT_EN
   header:
     #title: Welcome to our Studio!
     text: MNKY Gaming
-    button: Who we are
+    button: Who are we
     buttonlink: "#about"
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "Our story"
     body: "We are a collection of international gamers focused on team-based online play with a friendly atmosphere, and above all having fun. We’ve been around since February 2007, usually found in online shooters or racing sims."
     section: about
-
-  services:
-    title: "Games"
-    text: "Where you'll find us"
-    section: games
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-#  portfolio:
-#    title: "Portfolio"
-#    text: "Lorem ipsum dolor sit amet consectetur."
-#    section: portfolio
-#    closebutton: "Close Project"
 
   timeline:
     title: "History"
@@ -73,6 +52,27 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
+    
+#  services:
+#    title: "Games"
+#    text: "Where you'll find us"
+#    section: games
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
+
+#  portfolio:
+#    title: "Portfolio"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    section: portfolio
+#    closebutton: "Close Project"
 
   footer:
     legal: "Privacy Policy"

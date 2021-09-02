@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Games"
-      section: games
-#    - title: "Portfolio"
-#      section: portfolio
     - title: "About"
       section: about
     - title: "History"
       section: timeline
+#    - title: "Games"
+#      section: games
+#    - title: "Portfolio"
+#      section: portfolio
     - title: "Discord"
       url: https://discord.com/invite/Vt8y7BT
 en-US:
