@@ -15,10 +15,12 @@ en: &DEFAULT_EN
       section: about
     - title: "History"
       section: timeline
+    - title: "Creators"
+      section: team
 #    - title: "Games"
 #      section: games
-    - title: "Creators"
-      section: portfolio
+#    - title: "Games and Servers"
+#      section: portfolio
     - title: "Discord"
       url: https://discord.com/invite/Vt8y7BT
 en-US:
