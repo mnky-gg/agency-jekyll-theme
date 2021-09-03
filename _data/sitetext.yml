@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: about
 
   team:
-    title: "OUR CONTENT CREATORS"
+    title: "OUR CREATORS"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -32,11 +32,11 @@ en: &DEFAULT_EN
         role: "Variety Gaming"
         image: assets/img/team/frostels.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/Frostels_Gaming
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.twitch.tv/frostels
             icon: fab fa-twitch
-          - url: https://linkedin.com
+          - url: https://www.youtube.com/user/BigFr0sty
             icon: fab fa-youtube
       - name: "olig89"
         role: "Sim Racing"
@@ -52,11 +52,11 @@ en: &DEFAULT_EN
         role: "Variety Gaming & Music"
         image: assets/img/team/michasrapf.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://www.twitch.tv/olig89
+          - url: https://soundcloud.com/michasrapf
+            icon: fab fa-soundcloud
+          - url: https://www.twitch.tv/michas_rapf
             icon: fab fa-twitch
-          - url: https://linkedin.com
+          - url: https://www.youtube.com/channel/UCJOeC2VQAghhNmFhL8y6ExQ/videos
             icon: fab fa-youtube
 
   timeline:
