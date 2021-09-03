@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    #title: Welcome to our Studio!
-    text: MNKY Gaming
+    title: MNKY Gaming
+    text: Est. 2007
     button: Who are we
     buttonlink: "#about"
 
@@ -52,6 +52,12 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
+
+  portfolio:
+    title: "Creators"
+    text: "Where to find us."
+    section: portfolio
+    closebutton: "Close Project"
     
 #  services:
 #    title: "Games"
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #        desc: "Your description here, full **Markdown** support"
 #        icon: fab fa-markdown
-
-  portfolio:
-    title: "Content"
-    text: "Our creators."
-    section: portfolio
-    closebutton: "Close Project"
 
   footer:
     legal: "Privacy Policy"
