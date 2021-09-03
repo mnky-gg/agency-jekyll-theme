@@ -13,12 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
-    - title: "History"
-      section: timeline
     - title: "Creators"
       section: team
-#    - title: "Games"
-#      section: games
+    - title: "History"
+      section: timeline
 #    - title: "Games and Servers"
 #      section: portfolio
     - title: "Discord"

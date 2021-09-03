@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: MNKY Gaming
-    text: Est. 2007
+#    text: Est. 2007
     button: Who are we
     buttonlink: "#about"
 
