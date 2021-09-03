@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: timeline
 #    - title: "Games"
 #      section: games
-#    - title: "Portfolio"
-#      section: portfolio
+    - title: "Content"
+      section: portfolio
     - title: "Discord"
       url: https://discord.com/invite/Vt8y7BT
 en-US:
