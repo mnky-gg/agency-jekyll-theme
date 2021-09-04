@@ -12,7 +12,7 @@ author     : olig89
 logo:     #optional, defaults to site title
    path: assets\img\logo.png
    height: 75 #height in px, defaults to 52px
-discord    : loliger #Vt8y7BT
+discord    : stilltesting #Vt8y7BT
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

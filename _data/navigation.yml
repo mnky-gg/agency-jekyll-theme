@@ -20,7 +20,7 @@ en: &DEFAULT_EN
 #    - title: "Games and Servers"
 #      section: portfolio
     - title: "Discord"
-      url: https://discord.com/invite/{{site.discord}}
+      url: "https://discord.com/invite/" + site.discord
 en-US:
   <<: *DEFAULT_EN
 en-CA:
