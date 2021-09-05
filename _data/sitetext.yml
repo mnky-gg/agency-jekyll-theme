@@ -60,8 +60,8 @@ en: &DEFAULT_EN
             icon: fab fa-youtube
 
   timeline:
-    title: "Our History"
-#    text: "What we've played"
+    title: "Origin Story"
+    text: "Where you might have seen us"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -86,6 +86,68 @@ en: &DEFAULT_EN
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
+
+      - title: "Battlefield 2042"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Rocket League"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "PUBG"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Black Ops"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Battlefield 4"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Battlefield 3"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Battlefield BC2"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "GRID"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Call of Duty: Modern Warfare 2"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Call of Duty 4: Modern Warfare"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Battlefield 2042"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Battlefield 2"
+        year: "2009-2011"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
