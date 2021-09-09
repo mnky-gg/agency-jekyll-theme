@@ -66,79 +66,63 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-
       - title: "Battlefield 2042"
-        year: "2009-2011"
+        year: "2021"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Rocket League"
-        year: "2009-2011"
+        year: "2015"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "PUBG"
-        year: "2009-2011"
+        year: "2017"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Black Ops"
-        year: "2009-2011"
+      - title: "Call of Duty: Black Ops"
+        year: "2010"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Battlefield 4"
-        year: "2009-2011"
+        year: "2013"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Battlefield 3"
-        year: "2009-2011"
+        year: "2011"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Battlefield BC2"
-        year: "2009-2011"
+        year: "2008"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "GRID"
-        year: "2009-2011"
+        year: "2008"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Call of Duty: Modern Warfare 2"
-        year: "2009-2011"
+        year: "2009"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Call of Duty 4: Modern Warfare"
-        year: "2009-2011"
+        year: "2007"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Battlefield 2042"
-        year: "2009-2011"
+      - title: "Battlefield 2142"
+        year: "2006"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Battlefield 2"
-        year: "2009-2011"
+        year: "2005"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
