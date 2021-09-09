@@ -69,62 +69,62 @@ en: &DEFAULT_EN
       - title: "Battlefield 2042"
         year: "2021"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bf2042.jpg
         alt:
       - title: "Rocket League"
         year: "2015"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/rl.jpg
         alt:
       - title: "PUBG"
         year: "2017"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/pubg.jpg
         alt:
       - title: "Battlefield 4"
         year: "2013"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bf4.jpg
         alt:
       - title: "Battlefield 3"
         year: "2011"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bf3.jpg
         alt:
       - title: "Call of Duty: Black Ops"
         year: "2010"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/codbo.jpg
         alt:
       - title: "Battlefield: Bad Company 2"
         year: "2010"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bfbc2.jpg
         alt:
       - title: "Call of Duty: Modern Warfare 2"
         year: "2009"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/mw2.jpg
         alt:
       - title: "GRID"
         year: "2008"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/grid.jpg
         alt:
       - title: "Call of Duty 4: Modern Warfare"
         year: "2007"
         desc: "Your."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/cod4.jpg
         alt:
       - title: "Battlefield 2142"
         year: "2006"
         desc: "LH then MNKY"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bf2142.jpg
         alt:
       - title: "Battlefield 2"
         year: "2005"
         desc: "MFK then LH"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/bf2.jpg
         alt:
 
         # you can enforce the alignment
