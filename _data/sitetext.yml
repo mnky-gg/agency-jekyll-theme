@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: MNKY Gaming
+    title: MNKY
 #    text: Est. 2007
     button: Who are we
     buttonlink: "#about"
@@ -23,20 +23,20 @@ en: &DEFAULT_EN
     section: about
 
   team:
-    title: "Our Creators"
+    title: "Top Creators"
 #    text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Frostels"
-        role: "Variety Gaming"
-        image: assets/img/team/frostels.jpg
+      - name: "MichasRapf"
+        role: "Variety Gaming & Music"
+        image: assets/img/team/michasrapf.jpg
         social:
-          - url: https://twitter.com/Frostels_Gaming
-            icon: fab fa-twitter
-          - url: https://www.twitch.tv/frostels
+          - url: https://soundcloud.com/michasrapf
+            icon: fab fa-soundcloud
+          - url: https://www.twitch.tv/michas_rapf
             icon: fab fa-twitch
-          - url: https://www.youtube.com/user/BigFr0sty
+          - url: https://www.youtube.com/channel/UCJOeC2VQAghhNmFhL8y6ExQ/videos
             icon: fab fa-youtube
       - name: "olig89"
         role: "Sim Racing"
@@ -48,15 +48,15 @@ en: &DEFAULT_EN
             icon: fab fa-twitch
           - url: https://www.youtube.com/c/olig89/
             icon: fab fa-youtube
-      - name: "MichasRapf"
-        role: "Variety Gaming & Music"
-        image: assets/img/team/michasrapf.jpg
+      - name: "Frostels"
+        role: "Variety Gaming"
+        image: assets/img/team/frostels.jpg
         social:
-          - url: https://soundcloud.com/michasrapf
-            icon: fab fa-soundcloud
-          - url: https://www.twitch.tv/michas_rapf
+          - url: https://twitter.com/Frostels_Gaming
+            icon: fab fa-twitter
+          - url: https://www.twitch.tv/frostels
             icon: fab fa-twitch
-          - url: https://www.youtube.com/channel/UCJOeC2VQAghhNmFhL8y6ExQ/videos
+          - url: https://www.youtube.com/user/BigFr0sty
             icon: fab fa-youtube
 
   timeline:
@@ -129,10 +129,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: ""
-
-  clients:
-    section: clients
-    max-height: 100px
 
 #  portfolio:
 #    title: "Creators"
