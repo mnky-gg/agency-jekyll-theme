@@ -124,7 +124,7 @@ en: &DEFAULT_EN
       - title: "Battlefield 2"
         year: "2005"
         desc: "MFK then LH"
-        image: assets/img/timeline/bf24.jpg
+        image: assets/img/timeline/bf2.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    
+
 #  portfolio:
 #    title: "Creators"
 #    text: "Where to find us."
