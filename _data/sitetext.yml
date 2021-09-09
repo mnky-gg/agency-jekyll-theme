@@ -81,11 +81,6 @@ en: &DEFAULT_EN
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Call of Duty: Black Ops"
-        year: "2010"
-        desc: "Your."
-        image: assets/img/timeline/4.jpg
-        alt:
       - title: "Battlefield 4"
         year: "2013"
         desc: "Your."
@@ -96,18 +91,23 @@ en: &DEFAULT_EN
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Battlefield BC2"
-        year: "2008"
+      - title: "Call of Duty: Black Ops"
+        year: "2010"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "GRID"
-        year: "2008"
+      - title: "Battlefield BC2"
+        year: "2010"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Call of Duty: Modern Warfare 2"
         year: "2009"
+        desc: "Your."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "GRID"
+        year: "2008"
         desc: "Your."
         image: assets/img/timeline/4.jpg
         alt:
