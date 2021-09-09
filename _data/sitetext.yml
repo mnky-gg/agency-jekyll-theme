@@ -129,7 +129,7 @@ en: &DEFAULT_EN
 
         # you can enforce the alignment
         align: right
-    end: ""
+    end: "<i>fin</i>"
 
 #  portfolio:
 #    title: "Creators"
