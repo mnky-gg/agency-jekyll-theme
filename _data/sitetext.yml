@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
 #    text: "Our story"
-    body: "We are a collection of international PC gamers focused on team-based online play with a friendly atmosphere, and above all having fun. We’ve been around since February 2007, usually found in online shooters or racing sims."
+    body: "We are a collection of international PC gamers focused on team-based online play with a friendly atmosphere, and above all having fun. We’ve been around since 2005, and under the MNKY name since February 2007, usually found in online shooters or racing sims."
     section: about
 
   team:
