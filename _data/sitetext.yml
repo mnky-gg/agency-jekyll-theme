@@ -71,15 +71,15 @@ en: &DEFAULT_EN
         desc: "Your."
         image: assets/img/timeline/bf2042.jpg
         alt:
-      - title: "Rocket League"
-        year: "2015"
-        desc: "Your."
-        image: assets/img/timeline/rl.jpg
-        alt:
       - title: "PUBG"
         year: "2017"
         desc: "Your."
         image: assets/img/timeline/pubg.jpg
+        alt:
+      - title: "Rocket League"
+        year: "2015"
+        desc: "Your."
+        image: assets/img/timeline/rl.jpg
         alt:
       - title: "Battlefield 4"
         year: "2013"
