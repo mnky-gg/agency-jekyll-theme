@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Battlefield 3"
         year: "2011"
-        desc: "Some cross pollenation with the Sir Community."
+        desc: "Some cross pollenation with the *Sir Community*"
         image: assets/img/timeline/bf3.jpg
         alt:
       - title: "Call of Duty: Black Ops"
@@ -118,12 +118,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Battlefield 2142"
         year: "2006"
-        desc: "Starting off as =LH= then rebranding as MNKY"
+        desc: "Starting off as =LH=, rebranding as MNKY"
         image: assets/img/timeline/bf2142.jpg
         alt:
       - title: "Battlefield 2"
         year: "2005"
-        desc: "Originally as [MFK], subsequently splitting into =LH="
+        desc: "Originally as European division of [MFK], splitting off into =LH="
         image: assets/img/timeline/bf2.jpg
         alt:
         # you can enforce the alignment
