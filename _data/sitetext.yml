@@ -61,7 +61,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Origin Story"
-    text: "Where you might have seen us"
+    text: "Where you may have seen us"
     section: timeline
     # left is the default
     #start_align: "left"
