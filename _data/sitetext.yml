@@ -96,19 +96,19 @@ en: &DEFAULT_EN
         #desc: "Your."
         image: assets/img/timeline/codbo.jpg
         alt:
-      - title: "Battlefield: Bad Company 2"
+      - title: "BF: Bad Company 2"
         year: "2010"
         #desc: "Your."
         image: assets/img/timeline/bfbc2.jpg
         alt:
-      - title: "Call of Duty: Modern Warfare 2"
+      - title: "Call of Duty: MW2"
         year: "2009"
         #desc: "Your."
         image: assets/img/timeline/mw2.jpg
         alt:
       - title: "GRID"
         year: "2008"
-        #desc: "Your."
+        desc: "Flying the flag of Jamaica"
         image: assets/img/timeline/grid.jpg
         alt:
       - title: "Call of Duty 4: Modern Warfare"
@@ -118,12 +118,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Battlefield 2142"
         year: "2006"
-        #desc: "LH then MNKY"
+        desc: "Starting off as =LH= then rebranding as MNKY"
         image: assets/img/timeline/bf2142.jpg
         alt:
       - title: "Battlefield 2"
         year: "2005"
-        #desc: "MFK then LH"
+        desc: "Originally as [MFK], subsequently splitting into =LH="
         image: assets/img/timeline/bf2.jpg
         alt:
         # you can enforce the alignment
