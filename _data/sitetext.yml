@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   team:
     title: "Top Creators"
 #    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: For a longer list, look at the associated channels on each of the profiles.
     section: team
     people:
       - name: "MichasRapf"
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Battlefield 3"
         year: "2011"
-        #desc: "Your."
+        desc: "Some cross pollenation with the Sir Community."
         image: assets/img/timeline/bf3.jpg
         alt:
       - title: "Call of Duty: Black Ops"
