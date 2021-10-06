@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "MichasRapf"
-        role: "Variety Gaming & Music"
+        role: "Gaming & Music"
         image: assets/img/team/michasrapf.jpg
         social:
           - url: https://soundcloud.com/michasrapf
@@ -49,7 +49,7 @@ en: &DEFAULT_EN
           - url: https://www.youtube.com/c/olig89/
             icon: fab fa-youtube
       - name: "Frostels"
-        role: "Variety Gaming"
+        role: "Gaming"
         image: assets/img/team/frostels.jpg
         social:
           - url: https://twitter.com/Frostels_Gaming
@@ -68,62 +68,62 @@ en: &DEFAULT_EN
     events:
       - title: "Battlefield 2042"
         year: "2021"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/bf2042.jpg
         alt:
       - title: "PUBG"
         year: "2017"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/pubg.jpg
         alt:
       - title: "Rocket League"
         year: "2015"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/rl.jpg
         alt:
       - title: "Battlefield 4"
         year: "2013"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/bf4.jpg
         alt:
       - title: "Battlefield 3"
         year: "2011"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/bf3.jpg
         alt:
       - title: "Call of Duty: Black Ops"
         year: "2010"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/codbo.jpg
         alt:
       - title: "Battlefield: Bad Company 2"
         year: "2010"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/bfbc2.jpg
         alt:
       - title: "Call of Duty: Modern Warfare 2"
         year: "2009"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/mw2.jpg
         alt:
       - title: "GRID"
         year: "2008"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/grid.jpg
         alt:
       - title: "Call of Duty 4: Modern Warfare"
         year: "2007"
-        desc: "Your."
+        #desc: "Your."
         image: assets/img/timeline/cod4.jpg
         alt:
       - title: "Battlefield 2142"
         year: "2006"
-        desc: "LH then MNKY"
+        #desc: "LH then MNKY"
         image: assets/img/timeline/bf2142.jpg
         alt:
       - title: "Battlefield 2"
         year: "2005"
-        desc: "MFK then LH"
+        #desc: "MFK then LH"
         image: assets/img/timeline/bf2.jpg
         alt:
         # you can enforce the alignment
