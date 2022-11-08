@@ -39,10 +39,10 @@ en: &DEFAULT_EN
           - url: https://www.youtube.com/channel/UCJOeC2VQAghhNmFhL8y6ExQ/videos
             icon: fab fa-youtube
       - name: "olig89"
-        role: "Sim Racing"
+        role: "Gaming"
         image: assets/img/team/olig89.jpg
         social:
-          - url: https://twitter.com/oli_g89
+          - url: https://twitter.com/olig89
             icon: fab fa-twitter
           - url: https://www.twitch.tv/olig89
             icon: fab fa-twitch
