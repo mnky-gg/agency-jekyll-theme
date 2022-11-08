@@ -66,11 +66,6 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Battlefield 2042"
-        year: "2021"
-        #desc: "Your."
-        image: assets/img/timeline/bf2042.jpg
-        alt:
       - title: "PUBG"
         year: "2017"
         #desc: "Your."
