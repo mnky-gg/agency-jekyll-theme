@@ -66,6 +66,16 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "BattleBit Remastered"
+        year: "2023"
+        #desc: "Your."
+        image: assets/img/timeline/battlebit.jpg
+        alt:
+      - title: "iRacing"
+        year: "2021"
+        #desc: "Flying the flag of Jamaica"
+        image: assets/img/timeline/iracing.jpg
+        alt:
       - title: "PUBG"
         year: "2017"
         #desc: "Your."
